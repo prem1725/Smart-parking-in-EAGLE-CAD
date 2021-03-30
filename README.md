@@ -1,0 +1,2 @@
+# Smart-parking-in-EAGLE-CAD
+World's population is growing in a rapid sense. Because of this the parking becomes really tough in many cities and result in vehicles circulating in the streets. Smart parking systems have become a very helpful but they are usually complex and expensive. Their installation has to be done by specialized staff and even the structure needs to be modified. A lot of money and time should be spent on the maintenance. This system helps building a more simple and practical solution and also it is cheap. 
